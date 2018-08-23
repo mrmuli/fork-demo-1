@@ -7,3 +7,7 @@ This fork as part of a lorem ipsum dolor sit amet, consectetur adipiscing elit, 
 ## Fork contribution
 
 Mr Muli added this line
+
+### changes on Master
+
+these changes were added on the base (Master) branch
